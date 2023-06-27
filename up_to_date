@@ -1,1 +1,2 @@
-echo touch up to date
+git pull
+
